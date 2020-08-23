@@ -1,6 +1,6 @@
 # Team AtlasNX Discord Archive
 
-This repo contains links to archives of all the public channels from the AtlasNX Discord Server.
+This repo contains links to archives of all the public channels from the AtlasNX Discord Server. The archives were created using a very simple bot writen in GO, which can be found here: https://git.nicholemattera.com/NicholeMattera/Archive-Bot
 
 ## Profile Picture Archive
 
@@ -46,7 +46,7 @@ The `.tar.gz` is an archive that contains all the attachments from the channel.
 | announcements                       | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/Announcements/477900835452485633.json)                        | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/Announcements/477900835452485633.tar.gz)                       |
 | bootlogo-showcase                   | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/Bootlogo-Showcase/478290840373035038.json)                    | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/Bootlogo-Showcase/478290840373035038.tar.gz)                   |
 | creative-showcase                   | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/Creative-Showcase/516377202103681024.json)                    | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/Creative-Showcase/516377202103681024.tar.gz)                   |
-| developer-chat                      | TODO                                                                                                                             | TODO                                                                                                                              |
+| developer-chat                      | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/Developer-Chat/478162551381819392.json)                       | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/Developer-Chat/478162551381819392.tar.gz)                      |
 | e3-discussion-2019                  | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/E3-Discussion-2019/585873164647661575.json)                   | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/E3-Discussion-2019/585873164647661575.tar.gz)                  |
 | faq                                 | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/FAQ/500341481962209301.json)                                  | N/A                                                                                                                               |
 | gaming-discussion                   | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/Gaming-Discussion/607392934685311045.json)                    | [Link](https://atlasnx-discord-archive.s3.eu-north-1.amazonaws.com/Gaming-Discussion/607392934685311045.tar.gz)                   |
